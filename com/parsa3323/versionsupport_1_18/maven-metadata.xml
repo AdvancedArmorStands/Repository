@@ -3,10 +3,10 @@
   <groupId>com.parsa3323</groupId>
   <artifactId>versionsupport_1_18</artifactId>
   <versioning>
-    <release>1.11.0-dev2</release>
+    <release>1.26.0-dev1</release>
     <versions>
-      <version>1.11.0-dev2</version>
+      <version>1.26.0-dev1</version>
     </versions>
-    <lastUpdated>20251216155826</lastUpdated>
+    <lastUpdated>20260507141949</lastUpdated>
   </versioning>
 </metadata>
